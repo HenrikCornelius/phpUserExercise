@@ -2,7 +2,7 @@
 PHP website with user login and permissions
 
 ## Table view of registred users
-![alt text](screenshots/editUser.png "Table view of registred users - click a row to edit")
+![alt text](screenshots/usersPage.png "Table view of registred users - click a row to edit")
 
 ## Modal dialog to edit a user
 ![alt text](screenshots/editUser.png "Modal dialog to edit a user")
